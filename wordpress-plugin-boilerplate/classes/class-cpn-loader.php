@@ -16,7 +16,7 @@
 defined( 'ABSPATH' ) or die( 'No script kiddies please!' );
 
 if ( !class_exists( 'Custom_Plugin_Name_Loader' ) ) {
-  class Custom_Plugin_Names_Loader
+  class Custom_Plugin_Name_Loader
   {
 
    	protected $actions;
